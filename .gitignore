@@ -1,6 +1,19 @@
+# Python / dev environment
 .venv/
+uv.lock
 __pycache__/
 *.pyc
 logs/*.out
 logs/*.err
+
+# Local scaffold (not part of workshop)
+CLAUDE.md
+CHANGELOG.md
+pyproject.toml
+configs/
 data/
+docs/
+scripts/
+src/
+tests/
+.claude/
