@@ -18,3 +18,7 @@ src/
 tests/
 .claude/
 build_deck.py
+
+# Only track the latest pptx version in git
+# (old versions stay local, add new version explicitly with git add)
+2026-Git-2.1.pptx

@@ -4,7 +4,7 @@ A hands-on workshop for publishing your first website using Git and GitHub Pages
 
 ## Workshop Files
 
-- `2026-Git-2.1.pptx` - Lecture slides
+- `2026-Git-2.2.pptx` - Lecture slides
 - `index.html` - Website template
 - `style.css` - Styling
 - `script.js` - Interactive features
@@ -18,10 +18,10 @@ A hands-on workshop for publishing your first website using Git and GitHub Pages
 cd ~/Desktop
 
 # Clone the template repository
-git clone https://github.com/mitchellxh/test-page.git
+git clone https://github.com/mitchellxh/git-workshop-2.git
 
 # Go into the project folder
-cd test-page
+cd git-workshop-2
 ```
 
 Verify the files are there:
