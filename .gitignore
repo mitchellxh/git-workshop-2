@@ -17,3 +17,4 @@ scripts/
 src/
 tests/
 .claude/
+build_deck.py
